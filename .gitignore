@@ -1,0 +1,13 @@
+DriftRocketProject/Library/
+DriftRocketProject/Logs/
+DriftRocketProject/obj/
+DriftRocketProject/Packages/
+DriftRocketProject/ProjectSettings/
+
+DriftRocketProject/.collabignore
+
+DriftRocketProject/Assets/Assets
+DriftRocketProject/Assets/Fonts
+DriftRocketProject/Assets/Sounds
+DriftRocketProject/Assets/Sprite
+

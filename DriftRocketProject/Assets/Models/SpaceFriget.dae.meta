@@ -1,0 +1,179 @@
+fileFormatVersion: 2
+guid: 0f96d3cf832c551428c55a4a2a6165c2
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Antenna
+    100002: Antenna1
+    100004: Antenna2
+    100006: Dish
+    100008: DishAntenna
+    100010: EngineL
+    100012: EngineR
+    100014: Grate
+    100016: Handle
+    100018: Hanger_Door
+    100020: HeavyCannon
+    100022: Plane_005
+    100024: Plane_006
+    100026: ShipBase
+    100028: ShipBase_No_Bevel
+    100030: ShipHead
+    100032: SmallTurret
+    100034: //RootNode
+    400000: Antenna
+    400002: Antenna1
+    400004: Antenna2
+    400006: Dish
+    400008: DishAntenna
+    400010: EngineL
+    400012: EngineR
+    400014: Grate
+    400016: Handle
+    400018: Hanger_Door
+    400020: HeavyCannon
+    400022: Plane_005
+    400024: Plane_006
+    400026: ShipBase
+    400028: ShipBase_No_Bevel
+    400030: ShipHead
+    400032: SmallTurret
+    400034: //RootNode
+    2100000: No Name
+    2300000: Antenna
+    2300002: Antenna1
+    2300004: Antenna2
+    2300006: Dish
+    2300008: DishAntenna
+    2300010: EngineL
+    2300012: EngineR
+    2300014: Grate
+    2300016: Handle
+    2300018: Hanger_Door
+    2300020: HeavyCannon
+    2300022: Plane_005
+    2300024: Plane_006
+    2300026: ShipBase
+    2300028: ShipBase_No_Bevel
+    2300030: ShipHead
+    2300032: SmallTurret
+    3300000: Antenna
+    3300002: Antenna1
+    3300004: Antenna2
+    3300006: Dish
+    3300008: DishAntenna
+    3300010: EngineL
+    3300012: EngineR
+    3300014: Grate
+    3300016: Handle
+    3300018: Hanger_Door
+    3300020: HeavyCannon
+    3300022: Plane_005
+    3300024: Plane_006
+    3300026: ShipBase
+    3300028: ShipBase_No_Bevel
+    3300030: ShipHead
+    3300032: SmallTurret
+    4300000: ShipBase
+    4300002: ShipHead
+    4300004: EngineR
+    4300006: EngineL
+    4300008: SmallTurret
+    4300010: Plane_005
+    4300012: Plane_006
+    4300014: ShipBase_No_Bevel
+    4300016: Grate
+    4300018: Antenna1
+    4300020: Antenna2
+    4300022: DishAntenna
+    4300024: Dish
+    4300026: Antenna
+    4300028: Handle
+    4300030: HeavyCannon
+    4300032: Hanger_Door
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
